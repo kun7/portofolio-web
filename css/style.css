@@ -7,7 +7,7 @@
 /* Custom Properties, update these for your own design */
 
 :root {
-    --ff-primary: 'Lora', serif;
+    --ff-primary: 'Poppins', serif;
     --ff-secondary: 'Roboto Slab', serif;
     
     --fw-reg: 400;
@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #f8333c;
+    --clr-accent: #ff930f;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
